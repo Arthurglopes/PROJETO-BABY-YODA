@@ -39,7 +39,7 @@ body {
     }
 }
 
-/* Ears */
+
 .baby-yoda::before,
 .baby-yoda::after {
     content: '';
@@ -49,7 +49,7 @@ body {
     background: var(--pink);
     border-top: solid .5em var(--green);
     position: absolute;
-    top: 0.5em;  /* Corrigido de 0,5em para 0.5em */
+    top: 0.5em;  
     margin: 0 -1em;
     z-index: -1;
     border-radius: 2em 1em;
